@@ -10,7 +10,7 @@
     "eslint": "npx eslint --ext js js/",
     "eslint-fix": "npx eslint --fix --ext js js/",
     "commit": "npx git-cz",
-    "test": "jest",
+    "test": "jest --coverage",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
