@@ -5,7 +5,7 @@ import {
 
 describe('localStorage', () => {
   const nodeStore = new LocalStorage();
-  
+
   it('should return null if can\'t take getItem(key)', () => {
     expect(nodeStore.getItem('Key')).toBe(null);
     expect(nodeStore.getItem(TRANSPORT_LIST_STORAGE_KEY)).toBe(null);
