@@ -1,8 +1,8 @@
 {
-  "name": "js-band-hw-task-4",
+  "name": "js-band-hw-task-5",
   "version": "1.0.0",
-  "description": "Ciklum University: JS Band Internship. Homework task 4",
-  "homepage": "https://kotaleksei.github.io/js-band-hw-task-4/",
+  "description": "Ciklum University: JS Band Internship. Homework task 5",
+  "homepage": "https://kotaleksei.github.io/js-band-hw-task-5/",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack/webpack.dev.js --open",
